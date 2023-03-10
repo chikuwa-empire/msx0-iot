@@ -21,7 +21,11 @@ MSX0の実機入手後に操作方法が変わるかも知れません
 ## 起動方法
 #### ROMイメージをWebMSXで起動する
 こちらのリンクから直接起動することができます。<br>
-https://webmsx.org/?MACHINE=MSX2J&ROM=https://github.com/chikuwa-empire/msx0-iot/raw/main/CHIKUWA_WATCH/CWATCH01.ROM
+https://webmsx.org/?MACHINE=MSX2J&ROM=https://github.com/chikuwa-empire/msx0-iot/raw/main/CHIKUWA_WATCH/CWATCH02.ROM
 
 ## 補足事項
 気温モードはMSX0の実機を入手してから作る予定です。
+
+## 変更履歴
+### Release 02 - 2023.03.10
+* タイマーモードで最初にAボタン押したときにピッって鳴らないのを修正
