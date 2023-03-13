@@ -27,5 +27,7 @@ https://webmsx.org/?MACHINE=MSX2J&ROM=https://github.com/chikuwa-empire/msx0-iot
 気温モードはMSX0の実機を入手してから作る予定です。
 
 ## 変更履歴
+### Release 03 - 2023.03.13
+* BボタンをキーボードのMキーにアサインしました（DSKのみ）
 ### Release 02 - 2023.03.10
 * タイマーモードで最初にAボタン押したときにピッって鳴らないのを修正
