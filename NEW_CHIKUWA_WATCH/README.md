@@ -1,7 +1,9 @@
 # New ちくわウォッチ (CHIKUWA WATCH New Version)
 
 ![IMAGE](https://user-images.githubusercontent.com/124578804/226565462-5594be7d-b806-428d-805c-d4ab445bead2.png)
-<p>デモ映像はこちら→</p>
+![msx0](https://user-images.githubusercontent.com/124578804/226571467-dda6f54b-9c6d-4235-a34c-07c213b7c64d.jpeg)
+
+<p>デモ映像はこちら→https://youtu.be/2u2w_yfRsHE</p>
 
 ## 概要
 MSX0をウェアラブルに使うために作ったスタイリッシュな時計です。<br>
