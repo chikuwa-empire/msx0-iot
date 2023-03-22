@@ -11,25 +11,30 @@ MSX0をウェアラブルに使うために作ったスタイリッシュな時�
 MSX0 stack単体でひととおりの操作ができるようになりました。
 
 ## 操作方法
-#### 〇ボタン(左)、カーソルキー(左)
+#### 画面左上タップ、〇ボタン(左)、カーソルキー(左)
 モードを選択します。
-#### 〇ボタン(中央)、カーソルキー(右)
+#### 画面右上タップ、〇ボタン(中央)、カーソルキー(右)
 時計モード：なし<br>
 タイマーモード：時間設定→桁移動→元に戻る<br>
 ストップウォッチモード：リセット
-#### 〇ボタン(右)、スペースキー
+#### 画面中央下タップ、〇ボタン(右)、スペースキー
 時計モード：なし<br>
 タイマーモード：カウントダウン開始・終了、時間設定時の数字変更<br>
 ストップウォッチモード：計測開始・終了
+#### 画面左下タップ、カーソルキー(下)
 #### ゲームパッドでも操作できます
 
 ## 起動方法
 #### DISKイメージをMSX0で起動する
-[NCWTCH01.DSK](https://github.com/chikuwa-empire/msx0-iot/raw/main/NEW_CHIKUWA_WATCH/NCWTCH01.DSK)をMSX0のマイクロSDカードに格納してください。
+[NCWTCH02.DSK](https://github.com/chikuwa-empire/msx0-iot/raw/main/NEW_CHIKUWA_WATCH/NCWTCH02.DSK)をMSX0のマイクロSDカードに格納してください。
 #### DISKイメージをWebMSXで起動する
 こちらのリンクから直接起動することができます。<br>
-https://webmsx.org/?MACHINE=MSX2J&DISK=https://github.com/chikuwa-empire/msx0-iot/raw/main/NEW_CHIKUWA_WATCH/NCWTCH01.DSK
+https://webmsx.org/?MACHINE=MSX2J&DISK=https://github.com/chikuwa-empire/msx0-iot/raw/main/NEW_CHIKUWA_WATCH/NCWTCH02.DSK
 
 ## 変更履歴
+### Release 02 - 2023.03.22
+* 液晶表示面のタッチ操作に対応しました。
+* ダークモードを追加しました。
+* デバイス情報表示モードを追加しました。
 ### Release 01 - 2023.03.21
 * MSX0で動作確認できましたので改めてリリースします。
