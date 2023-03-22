@@ -4,6 +4,7 @@
 ![msx0](https://user-images.githubusercontent.com/124578804/226571467-dda6f54b-9c6d-4235-a34c-07c213b7c64d.jpeg)
 
 <p>デモ映像はこちら→https://youtu.be/2u2w_yfRsHE</p>
+<p>アップデート版のデモ映像はこちら→https://youtu.be/MZQ6vv2_dfg</p>
 
 ## 概要
 MSX0をウェアラブルに使うために作ったスタイリッシュな時計です。<br>
