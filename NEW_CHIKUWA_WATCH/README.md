@@ -27,12 +27,14 @@ MSX0 stack単体でひととおりの操作ができるようになりました�
 
 ## 起動方法
 #### DISKイメージをMSX0で起動する
-[NCWTCH03.DSK](https://github.com/chikuwa-empire/msx0-iot/raw/main/NEW_CHIKUWA_WATCH/NCWTCH03.DSK)をMSX0のマイクロSDカードに格納してください。
+[NCWTCH04.DSK](https://github.com/chikuwa-empire/msx0-iot/raw/main/NEW_CHIKUWA_WATCH/NCWTCH04.DSK)をMSX0のマイクロSDカードに格納してください。
 #### DISKイメージをWebMSXで起動する
 こちらのリンクから直接起動することができます。<br>
-https://webmsx.org/?MACHINE=MSX2J&DISK=https://github.com/chikuwa-empire/msx0-iot/raw/main/NEW_CHIKUWA_WATCH/NCWTCH03.DSK
+https://webmsx.org/?MACHINE=MSX2J&DISK=https://github.com/chikuwa-empire/msx0-iot/raw/main/NEW_CHIKUWA_WATCH/NCWTCH04.DSK
 
 ## 変更履歴
+### Release 04 - 2023.03.23
+* 加速度センサーのデバイス名が誤っていました。Bottom2が入手できたので修正して動作確認済みです。
 ### Release 03 - 2023.03.23
 * 最上部のメニュー表示がおかしくなっていたので修正しました。動作には変更ありません。
 ### Release 02 - 2023.03.22
