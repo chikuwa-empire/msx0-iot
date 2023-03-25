@@ -1,7 +1,9 @@
 # New ちくわウォッチ (CHIKUWA WATCH New Version)
 
 ![IMAGE](https://user-images.githubusercontent.com/124578804/226565462-5594be7d-b806-428d-805c-d4ab445bead2.png)
-![msx0](https://user-images.githubusercontent.com/124578804/226571467-dda6f54b-9c6d-4235-a34c-07c213b7c64d.jpeg)
+![DARKMODE](https://user-images.githubusercontent.com/124578804/227699733-b330165f-dfb6-4db2-ac91-360efc8ac0d0.png)
+![PEDOMETER](https://user-images.githubusercontent.com/124578804/227699650-107f2705-3bc0-4a3b-8168-94c906b90525.png)
+![MSX0](https://user-images.githubusercontent.com/124578804/226571467-dda6f54b-9c6d-4235-a34c-07c213b7c64d.jpeg)
 
 <p>デモ映像はこちら→https://youtu.be/2u2w_yfRsHE</p>
 <p>アップデート版のデモ映像はこちら→https://youtu.be/MZQ6vv2_dfg</p>
