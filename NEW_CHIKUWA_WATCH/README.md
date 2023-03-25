@@ -14,26 +14,35 @@ MSX0 stack単体でひととおりの操作ができるようになりました�
 ## 操作方法
 #### 画面左上タップ、〇ボタン(左)、カーソルキー(左)
 モードを選択します。
-#### 画面右上タップ、〇ボタン(中央)、カーソルキー(右)
+#### 画面中央下タップ、〇ボタン(中央)、カーソルキー(右)
 時計モード：なし<br>
 タイマーモード：時間設定→桁移動→元に戻る<br>
-ストップウォッチモード：リセット
-#### 画面中央下タップ、〇ボタン(右)、スペースキー
+ストップウォッチモード：リセット<br>
+万歩計モード：リセット
+#### 画面右上タップ、〇ボタン(右)、スペースキー
 時計モード：なし<br>
 タイマーモード：カウントダウン開始・終了、時間設定時の数字変更<br>
-ストップウォッチモード：計測開始・終了
+ストップウォッチモード：計測開始・終了<br>
+万歩計モード：計測開始・終了
 #### 画面左下タップ、カーソルキー(下)
 ダークモードの切り替え
 #### ゲームパッドでも操作できます
 
 ## 起動方法
-#### DISKイメージをMSX0で起動する
+#### MSX-DOSで起動する（Release 05から）
+[NCWTCD05.COM](https://github.com/chikuwa-empire/msx0-iot/raw/main/NEW_CHIKUWA_WATCH/NCWTCD05.COM)をMSX-DOSから実行してください。<br>
+ちくわウォッチ専用ディスクにする場合は[AUTOEXEC.BAT](https://github.com/chikuwa-empire/msx0-iot/raw/main/NEW_CHIKUWA_WATCH/AUTOEXEC.BAT)をいっしょに入れておくと自動起動します。
+#### DISKイメージをMSX0で起動する（Release 04）
 [NCWTCH04.DSK](https://github.com/chikuwa-empire/msx0-iot/raw/main/NEW_CHIKUWA_WATCH/NCWTCH04.DSK)をMSX0のマイクロSDカードに格納してください。
-#### DISKイメージをWebMSXで起動する
+#### DISKイメージをWebMSXで起動する（Release 04）
 こちらのリンクから直接起動することができます。<br>
 https://webmsx.org/?MACHINE=MSX2J&DISK=https://github.com/chikuwa-empire/msx0-iot/raw/main/NEW_CHIKUWA_WATCH/NCWTCH04.DSK
 
 ## 変更履歴
+### Release 05 - 2023.03.25
+* MSX-DOS用アプリケーションにしました。
+* 万歩計モードを追加しました。
+* タイマー、ストップウォッチ、万歩計はマルチタスクで動きます。モードを切り替えても動きつづけます。
 ### Release 04 - 2023.03.23
 * 加速度センサーのデバイス名が誤っていました。Bottom2が入手できたので修正して動作確認済みです。
 ### Release 03 - 2023.03.23
