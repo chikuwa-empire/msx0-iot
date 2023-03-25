@@ -7,6 +7,7 @@
 
 <p>デモ映像はこちら→https://youtu.be/2u2w_yfRsHE</p>
 <p>アップデート版のデモ映像はこちら→https://youtu.be/MZQ6vv2_dfg</p>
+<p>万歩計とマルチタスクのデモ映像はこちら→https://youtu.be/slLnVOB-MY0</p>
 
 ## 概要
 MSX0をウェアラブルに使うために作ったスタイリッシュな時計です。<br>
