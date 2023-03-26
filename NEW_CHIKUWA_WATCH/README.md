@@ -35,7 +35,7 @@ MSX0 stack単体でひととおりの操作ができるようになりました�
 #### MSX-DOSで起動する（Release 05から）
 [NCWTCD05.COM](https://github.com/chikuwa-empire/msx0-iot/raw/main/NEW_CHIKUWA_WATCH/NCWTCD05.COM)をMSX-DOSから実行してください。<br>
 ちくわウォッチ専用ディスクにする場合は[AUTOEXEC.BAT](https://github.com/chikuwa-empire/msx0-iot/raw/main/NEW_CHIKUWA_WATCH/AUTOEXEC.BAT)をいっしょに入れておくと自動起動します。
-#### ROMイメージをWebMSXで起動する（曜日が機種依存のため異なる表示をする場合があります）
+#### ROMイメージをWebMSXで起動する
 こちらのリンクから直接起動することができます。<br>
 https://webmsx.org/?MACHINE=MSX2J&ROM=https://github.com/chikuwa-empire/msx0-iot/raw/main/NEW_CHIKUWA_WATCH/NCWTCH05.ROM
 
@@ -44,6 +44,9 @@ https://webmsx.org/?MACHINE=MSX2J&ROM=https://github.com/chikuwa-empire/msx0-iot
 #### DISKイメージをWebMSXで起動する（Release 04）
 こちらのリンクから直接起動することができます。<br>
 https://webmsx.org/?MACHINE=MSX2J&DISK=https://github.com/chikuwa-empire/msx0-iot/raw/main/NEW_CHIKUWA_WATCH/NCWTCH04.DSK
+
+## 補足事項
+* 曜日が機種依存のためWebMSXでは異なる表示をする場合があります
 
 ## 変更履歴
 ### Release 05 - 2023.03.25
