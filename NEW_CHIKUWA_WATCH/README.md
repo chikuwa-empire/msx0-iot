@@ -1,3 +1,5 @@
+# 最新版はこちらに移動しました→ https://chikuwa-empire.com/computer/msx0-app-watch/
+
 # New ちくわウォッチ (CHIKUWA WATCH New Version)
 
 ![IMAGE](https://user-images.githubusercontent.com/124578804/226565462-5594be7d-b806-428d-805c-d4ab445bead2.png)
