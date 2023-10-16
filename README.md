@@ -1,5 +1,6 @@
 #### MSX0で試したいアプリを作ったらここに置きます
-1. [New CHIKUWA WATCH](https://github.com/chikuwa-empire/msx0-iot/tree/main/NEW_CHIKUWA_WATCH)　MSX0をいつも身に着けよう。スタイリッシュな時計のニューバージョンです。
+1. [MSX0DINベータ版](https://github.com/chikuwa-empire/msx0-iot/tree/main/MSX0DIN_BETA)　MSX-DOSディスクイメージを入れ替えるコマンドです。
+1.
 
 #### モックアップ
 1. [CHIKUWA WEATHER](https://github.com/chikuwa-empire/msx0-iot/tree/main/CHIKUWA_WEATHER)　MSX0をいつも身に着けよう。お天気予報アプリのモックアップです。
@@ -9,4 +10,5 @@
 
 #### 旧版
 1. [CHIKUWA WATCH](https://github.com/chikuwa-empire/msx0-iot/tree/main/CHIKUWA_WATCH)　MSX0をいつも身に着けよう。スタイリッシュな時計です。
+1. [New CHIKUWA WATCH](https://github.com/chikuwa-empire/msx0-iot/tree/main/NEW_CHIKUWA_WATCH)　MSX0をいつも身に着けよう。スタイリッシュな時計のニューバージョンです。
 1.
