@@ -1,5 +1,5 @@
 #### MSX0で試したいアプリを作ったらここに置きます
-1. [MSX0DINベータ版](https://github.com/chikuwa-empire/msx0-iot/tree/main/MSX0DIN_BETA)　MSX-DOSディスクイメージを入れ替えるコマンドです。
+1. [MSX0_COMMAND](https://github.com/chikuwa-empire/msx0-iot/tree/main/MSX0_COMMAND)　MSX0向け便利コマンド集です。
 1.
 
 #### モックアップ
