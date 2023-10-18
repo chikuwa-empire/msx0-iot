@@ -1,7 +1,7 @@
 # MSX0向け便利コマンド集
 ## MSX0GET
 HTTP通信でファイルをダウンロードするコマンドです。<br>
-ファイル名: MSX0GET.COM<br>
+ファイル名: [MSX0GET.COM](https://github.com/chikuwa-empire/msx0-iot/raw/main/MSX0_COMMAND/MSX0GET.COM)<br>
 使い方: MSX0GET HOSTNAME PORT SOURCEPATH DEST [WAITTIME]<br>
 WAITTIMEは1/60秒単位です。AUTOEXEC.BATに組み込む場合は300程度を設定しておくと良いでしょう。<br>
 ## MSX0DCAT
