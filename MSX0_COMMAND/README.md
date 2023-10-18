@@ -11,7 +11,7 @@ WAITTIMEは1/60秒単位です。AUTOEXEC.BATに組み込む場合は300程度�
 表示されるのは32ファイルです。<br>
 ## MSX0DIN
 ディスクイメージファイルを切り替えるコマンドです。<br>
-ファイル名: MSX0DIN.COM<br>
+ファイル名: [MSX0DIN.COM](https://github.com/chikuwa-empire/msx0-iot/raw/main/MSX0_COMMAND/MSX0DIN.COM)<br>
 使い方: MSX0DIN DSK_FILE_NAME<br>
 実行した直後は切り替わっておらず、2度目にアクセスしたときに切り替わっています。<br>
 とりあえず1回 DIR を打ってください。<br>
