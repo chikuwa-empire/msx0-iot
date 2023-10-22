@@ -1,3 +1,19 @@
 # MSX0UPLD ベータ版
 
-![MSX0UPLD](https://github.com/chikuwa-empire/msx0-iot/assets/124578804/3efebb7a-0537-4039-885e-44108bb6f3de)
+![MSX0UPLD](https://github.com/chikuwa-empire/msx0-iot/assets/124578804/3efebb7a-0537-4039-885e-44108bb6f3de)<br>
+MSX0のMSX-DOSでファイルをアップロードするコマンドです。<br>
+微妙なのでまだベータ版です。<br>
+## 使い方
+MSX0UPLD ホスト名 ポート 送信先パス ファイル名 [待ち時間]
+## 例
+MSX0DIN 192.168.0.1 80 /upload TEST.TXT
+## サーバー側について
+通常のシングルパートのフォームでPOST送信されてきます。<br>
+ファイル名はfilename、データはfiledataで受け取ってください。<br>
+データは16進数文字列で送信されてきますので、2文字ずつバイナリーに変換してファイルに保存してください。<br>
+Flaskの簡単なサンプルを付けておきます。
+## 特記事項
+- ファイルの終端を0x1A(Ctrl-Z)で判別しています。<br>
+現状は実質テキストファイル専用となります。
+- 
+- 作者は使用した事による損害について一切の責任を負うことは出来ません。使用者の責任において使用してください。
