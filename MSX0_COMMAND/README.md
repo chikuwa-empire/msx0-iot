@@ -1,4 +1,5 @@
 # MSX0向け便利コマンド集
+# 最新版はこちらで公開しています→https://chikuwa-empire.com/
 ## MSX0GET
 HTTP通信でファイルをダウンロードするコマンドです。<br>
 ファイル名: [MSX0GET.COM](https://github.com/chikuwa-empire/msx0-iot/raw/main/MSX0_COMMAND/MSX0GET.COM)<br>
