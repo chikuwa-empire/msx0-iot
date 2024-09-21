@@ -1,3 +1,9 @@
+# 移動しました
+## https://chikuwa-empire.com/computer/msx0-app-watch/
+## https://chikuwa-empire.com/computer/msx0-app-diskimage/
+## https://chikuwa-empire.com/computer/msx0-app-httpget/
+## https://chikuwa-empire.com/computer/msx0-app-httpupload/
+
 #### MSX0で試したいアプリを作ったらここに置きます
 1. [MSX0_COMMAND](https://github.com/chikuwa-empire/msx0-iot/tree/main/MSX0_COMMAND)　MSX0向け便利コマンド集です。
 1.
